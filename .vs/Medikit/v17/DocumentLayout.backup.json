@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B9393-2F27-4447-B1F9-F38B39DC8377}|Medikit.csproj|g:\\abdul rehman jiwani\\aptech\\batches\\sir kamran ~ pr2-2023-01b\u002B012b\u002B03b\u002B10b\\3rd semester\\e-project\\medikit\\project\\medikit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E82B9393-2F27-4447-B1F9-F38B39DC8377}|Medikit.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B9393-2F27-4447-B1F9-F38B39DC8377}|Medikit.csproj|g:\\abdul rehman jiwani\\aptech\\batches\\sir kamran ~ pr2-2023-01b\u002B012b\u002B03b\u002B10b\\3rd semester\\e-project\\medikit\\project\\medikit\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E82B9393-2F27-4447-B1F9-F38B39DC8377}|Medikit.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B9393-2F27-4447-B1F9-F38B39DC8377}|Medikit.csproj|g:\\abdul rehman jiwani\\aptech\\batches\\sir kamran ~ pr2-2023-01b\u002B012b\u002B03b\u002B10b\\3rd semester\\e-project\\medikit\\project\\medikit\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E82B9393-2F27-4447-B1F9-F38B39DC8377}|Medikit.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-24T15:21:01.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:20:57.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\Abdul Rehman Jiwani\\Aptech\\Batches\\Sir Kamran ~ PR2-2023-01B\u002B012B\u002B03B\u002B10B\\3rd Semester\\E-Project\\Medikit\\Project\\Medikit\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T15:18:15.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
