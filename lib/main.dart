@@ -1,25 +1,49 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+import 'theme/theme_provider.dart';
+
+// Import Pages
 import 'pages/home.dart';
 import 'pages/search.dart';
 import 'pages/cart.dart';
 import 'pages/account.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(
+      ChangeNotifierProvider(
+        create: (context) => ThemeProvider(),
+        child: const MyApp(),
+      ),
+    );
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
+    final themeProvider = Provider.of<ThemeProvider>(context);
+
     return MaterialApp(
       title: 'Home Page',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-        useMaterial3: true,
+      theme: ThemeData.light().copyWith(
+        primaryColor: const Color(0xFFA7D8FF),
+        secondaryHeaderColor: const Color(0xFFE0BBE4),
+        scaffoldBackgroundColor: const Color(0xFFFAFAFA),
+        colorScheme: const ColorScheme.light(
+          primary: Color(0xFFA7D8FF),
+          secondary: Color(0xFFD4F6C1),
+        ),
       ),
+      darkTheme: ThemeData.dark().copyWith(
+        primaryColor: const Color(0xFF1A5276),
+        secondaryHeaderColor: const Color(0xFF4A235A),
+        scaffoldBackgroundColor: const Color(0xFF121212),
+        colorScheme: const ColorScheme.dark(
+          primary: Color(0xFF1A5276),
+          secondary: Color(0xFF2E7D32),
+        ),
+      ),
+      themeMode: themeProvider.themeMode,
       home: const MainScreen(),
     );
   }
